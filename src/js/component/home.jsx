@@ -8,7 +8,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Home = (props) => {
 	return (
 		<div className="text-center">
-			<h1 className="text-center mt-5">Counter</h1>
+			<h1 className="text-center mt-5">Simple Counter Project <i class="fa fa-globe"></i></h1>
 			<p>
 				<img src={rigoImage} />
 			</p>
