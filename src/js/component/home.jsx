@@ -13,8 +13,8 @@ const Home = (props) => {
 				<img src={rigoImage} />
 			</p>
 			
-			<div className = "relojpadre d-flex flex-row  justify-content-center">
-				<div className = "mx-2 p-2">reloj</div>
+			<div className = "relojpadre d-flex flex-row  justify-content-center bg-dark text-white">
+				<div className = "mx-2 p-2"><i class="fa fa-clock"></i></div>
 				<div className = "mx-2 p-2"id = "hour2">{props.horas2}</div>
 				<div className = "mx-2 p-2"id = "hour1">{props.horas1}</div>
 				<div className = "mx-2 p-2"id = "minutes2">{props.minutos2}</div>

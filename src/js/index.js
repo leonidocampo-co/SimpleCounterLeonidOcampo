@@ -8,6 +8,7 @@ import "../styles/index.css";
 
 //import your own components
 import Home from "./component/home.jsx";
+<script src="https://kit.fontawesome.com/4cbc1884b1.js" crossorigin="anonymous"></script>
 
 
 
