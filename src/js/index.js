@@ -41,7 +41,7 @@ setInterval(() => {
         horas2++;
         horas1 = 0;
     }
-    if(horas2 > 9){
+    if(horas2 > 5){
         horas2++;
     }
 
